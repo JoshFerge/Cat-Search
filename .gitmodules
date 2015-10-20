@@ -1,0 +1,6 @@
+[submodule "cat-web"]
+	path = cat-web
+	url = https://github.com/JoshFerge/cat-web.git
+[submodule "cat-server"]
+	path = cat-server
+	url = https://github.com/JoshFerge/cat-server.git
